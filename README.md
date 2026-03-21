@@ -1,5 +1,4 @@
-# Ardunio-Uno-Beginner-project 
-# Arduino Uno Beginner Projects 🚀
+ # Arduino Uno Beginner Projects 🚀
 
 This repository contains my beginner Arduino projects.
 
